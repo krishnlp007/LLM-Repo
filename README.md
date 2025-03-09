@@ -3,11 +3,8 @@ This repository contains a curated list of awesome 150+ libs.
 
 ---
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-
-
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/kalyanksnlp/))
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)]([#](https://twitter.com/yourhandle))
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
