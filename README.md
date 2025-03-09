@@ -41,29 +41,63 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | Axolotl           | Tool designed to streamline post-training for various AI models.                                 | [Link](https://github.com/axolotl-ai-cloud/axolotl/) |
 
 ## LLM Application Development
+<p align = "center"> <b> Frameworks </b> </p>
+
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| LiteLLM      | Library to call 100+ LLM APIs in OpenAI format.                                                        | [Link](https://github.com/BerriAI/litellm) |
 | LangChain    | LangChain is a framework for developing applications powered by large language models (LLMs).          | [Link](https://github.com/langchain-ai/langchain) |
 | Llama Index  | LlamaIndex is a data framework for your LLM applications.                                              | [Link](https://github.com/run-llama/llama_index) |
 | HayStack     | Haystack is an end-to-end LLM framework that allows you to build applications powered by LLMs, Transformer models, vector search and more. | [Link](https://github.com/deepset-ai/haystack) |
 | Prompt flow  | A suite of development tools designed to streamline the end-to-end development cycle of LLM-based AI applications. | [Link](https://github.com/microsoft/promptflow) |
 | Griptape     | A modular Python framework for building AI-powered applications.                                        | [Link](https://github.com/griptape-ai/griptape) |
+| Weave        | Weave is a toolkit for developing Generative AI applications.                                          | [Link](https://github.com/wandb/weave) |
+| Llama Stack  | Build Llama Apps.                                                                                      | [Link](https://github.com/meta-llama/llama-stack) |
+
+<p align = "center"> <b> Multi API Access </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| LiteLLM      | Library to call 100+ LLM APIs in OpenAI format.                                                        | [Link](https://github.com/BerriAI/litellm) |
+| AI Gateway   | A Blazing Fast AI Gateway with integrated Guardrails.                                                  | [Link](https://github.com/Portkey-AI/gateway) |
+
+<p align = "center"> <b> Routers </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| RouteLLM     | Framework for serving and evaluating LLM routers.                                                      | [Link](https://github.com/lm-sys/RouteLLM) |
+
+
+<p align = "center"> <b> Memory </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
 | mem0         | The Memory layer for your AI apps.                                                                     | [Link](https://github.com/mem0ai/mem0) |
+| Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
+
+<p align = "center"> <b> Interface </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
 | Simpleaichat | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. | [Link](https://github.com/minimaxir/simpleaichat) |
 | Chainlit     | Build production-ready Conversational AI applications in minutes.                                      | [Link](https://github.com/Chainlit/chainlit) |
-| GPTCache     | Semantic cache for LLMs. Fully integrated with LangChain and LlamaIndex.                               | [Link](https://github.com/zilliztech/gptcache) |
-| LangFlow     | LangFlow is a low-code app builder for RAG and multi-agent AI applications.                            | [Link](https://github.com/langflow-ai/langflow) |
 | Streamlit    | A faster way to build and share data apps.                                                             | [Link](https://github.com/streamlit/streamlit) |
 | Gradio       | Build and share delightful machine learning apps, all in Python.                                       | [Link](https://github.com/gradio-app/gradio) |
-| Weave        | Weave is a toolkit for developing Generative AI applications.                                          | [Link](https://github.com/wandb/weave) |
-| AI Gateway   | A Blazing Fast AI Gateway with integrated Guardrails.                                                  | [Link](https://github.com/Portkey-AI/gateway) |
-| FastAPI      | Web framework for building APIs with Python.                                                           | [Link](https://fastapi.tiangolo.com/) |
 | AI SDK UI    | Build chat and generative user interfaces.                                                             | [Link](https://sdk.vercel.ai/docs/introduction) |
-| Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
-| RouteLLM     | Framework for serving and evaluating LLM routers.                                                      | [Link](https://github.com/lm-sys/RouteLLM) |
-| Llama Stack  | Build Llama Apps.                                                                                      | [Link](https://github.com/meta-llama/llama-stack) |
 | AI-Gradio    | Create AI apps powered by various AI providers.                                                        | [Link](https://github.com/AK391/ai-gradio) |
+
+
+<p align = "center"> <b> Low Code </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| LangFlow     | LangFlow is a low-code app builder for RAG and multi-agent AI applications.                            | [Link](https://github.com/langflow-ai/langflow) |
+
+<p align = "center"> <b> Cache </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| GPTCache     | Semantic cache for LLMs. Fully integrated with LangChain and LlamaIndex.                               | [Link](https://github.com/zilliztech/gptcache) |
+
 
 ## LLM RAG
 
