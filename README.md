@@ -2,17 +2,8 @@
 This repository contains a curated list of awesome 150+ libs.
 
 ---
-<p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/kalyanksnlp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalyan%20KS-blue?style=flat-square&logo=linkedin" alt="Kalyan KS LinkedIn">
-  </a>
-  
-  <!-- Twitter/X Badge -->
-  <a href="https://x.com/kalyan_kpl" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Kalyan%20KS-1DA1F2?style=flat-square&logo=twitter" alt="Kalyan KS Twitter">
-  </a>
-</p>
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile/)
+- Twitter: [@YourHandle](https://twitter.com/yourhandle)
 
 
 
