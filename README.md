@@ -112,17 +112,96 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 ## LLM RAG
 
+| Library         | Description                                                                                                      | Link  |
+|---------------|----------------------------------------------------------------------------------------------------------------|-------|
+| FastGraph RAG | Streamlined and promptable Fast GraphRAG framework designed for interpretable, high-precision, agent-driven retrieval workflows. | [Link](https://github.com/circlemind-ai/fast-graphrag) |
+| Chonkie       | RAG chunking library that is lightweight, lightning-fast, and easy to use.                                      | [Link](https://github.com/chonkie-ai/chonkie) |
+| RAGChecker    | A Fine-grained Framework For Diagnosing RAG.                                                                   | [Link](https://github.com/amazon-science/RAGChecker) |
+| RAG to Riches | Build, scale, and deploy state-of-the-art Retrieval-Augmented Generation applications.                         | [Link](https://github.com/SciPhi-AI/R2R) |
+| BeyondLLM     | Beyond LLM offers an all-in-one toolkit for experimentation, evaluation, and deployment of Retrieval-Augmented Generation (RAG) systems. | [Link](https://github.com/aiplanethub/beyondllm) |
+| SQLite-Vec    | A vector search SQLite extension that runs anywhere!                                                           | [Link](https://github.com/asg017/sqlite-vec) |
+| fastRAG       | fastRAG is a research framework for efficient and optimized retrieval-augmented generative pipelines, incorporating state-of-the-art LLMs and Information Retrieval. | [Link](https://github.com/IntelLabs/fastRAG) |
+| FlashRAG      | A Python Toolkit for Efficient RAG Research.                                                                   | [Link](https://github.com/RUC-NLPIR/FlashRAG) |
+| Llmware       | Unified framework for building enterprise RAG pipelines with small, specialized models.                        | [Link](https://github.com/llmware-ai/llmware) |
+| Rerankers     | A lightweight unified API for various reranking models.                                                        | [Link](https://github.com/AnswerDotAI/rerankers) |
+| Vectara       | Build Agentic RAG applications.                                                                                | [Link](https://vectara.github.io/py-vectara-agentic/latest/) |
+
+
 ## LLM Inference
+
+| Library         | Description                                                                                               | Link  |
+|---------------|------------------------------------------------------------------------------------------------------|-------|
+| LLM Compressor | Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment. | [Link](https://github.com/vllm-project/llm-compressor) |
+| LightLLM      | Python-based LLM inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. | [Link](https://github.com/ModelTC/lightllm) |
+| vLLM         | High-throughput and memory-efficient inference and serving engine for LLMs.                            | [Link](https://github.com/vllm-project/vllm) |
+| torchchat     | Run PyTorch LLMs locally on servers, desktop, and mobile.                                              | [Link](https://github.com/pytorch/torchchat) |
+| TensorRT-LLM  | TensorRT-LLM is a library for optimizing Large Language Model (LLM) inference.                        | [Link](https://github.com/NVIDIA/TensorRT-LLM) |
+| WebLLM        | High-performance In-browser LLM Inference Engine.                                                     | [Link](https://github.com/mlc-ai/web-llm) |
+
 
 ## LLM Serving
 
+| Library   | Description                                                              | Link  |
+|-----------|--------------------------------------------------------------------------|-------|
+| Langcorn  | Serving LangChain LLM apps and agents automagically with FastAPI.       | [Link](https://github.com/msoedov/langcorn) |
+| LitServe  | Lightning-fast serving engine for any AI model of any size.             | [Link](https://github.com/Lightning-AI/LitServe) |
+
+
 ## LLM Data Extraction
+
+| Library         | Description                                                                                                                           | Link  |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Crawl4AI       | Open-source LLM Friendly Web Crawler & Scraper.                                                                                      | [Link](https://github.com/unclecode/crawl4ai) |
+| ScrapeGraphAI  | A web scraping Python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, Markdown, etc.). | [Link](https://github.com/ScrapeGraphAI/Scrapegraph-ai) |
+| Docling        | Docling parses documents and exports them to the desired format with ease and speed.                                                  | [Link](https://github.com/DS4SD/docling) |
+| Llama Parse    | GenAI-native document parser that can parse complex document data for any downstream LLM use case (RAG, agents).                     | [Link](https://github.com/run-llama/llama_cloud_services) |
+| PyMuPDF4LLM    | PyMuPDF4LLM library makes it easier to extract PDF content in the format you need for LLM & RAG environments.                        | [Link](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) |
+| Crawlee        | A web scraping and browser automation library.                                                                                         | [Link](https://github.com/apify/crawlee-python) |
+| MegaParse      | Parser for every type of document.                                                                                                    | [Link](https://github.com/quivrhq/megaparse) |
+| ExtractThinker | Document Intelligence library for LLMs.                                                                                               | [Link](https://github.com/enoch3712/ExtractThinker) |
+
 
 ## LLM Data Generation
 
+| Library       | Description                                                                                          | Link  |
+|--------------|--------------------------------------------------------------------------------------------------|-------|
+| DataDreamer  | DataDreamer is a powerful open-source Python library for prompting, synthetic data generation, and training workflows. | [Link](https://github.com/datadreamer-dev/DataDreamer) |
+| fabricator   | A flexible open-source framework to generate datasets with large language models.                   | [Link](https://github.com/flairNLP/fabricator) |
+| Promptwright | Synthetic Dataset Generation Library.                                                               | [Link](https://github.com/stacklok/promptwright) |
+| EasyInstruct | An Easy-to-use Instruction Processing Framework for Large Language Models.                          | [Link](https://github.com/zjunlp/EasyInstruct) |
+
+
 ## LLM Agents
 
+| Library         | Description                                                                                                 | Link  |
+|----------------|---------------------------------------------------------------------------------------------------------|-------|
+| OpenWebAgent   | An Open Toolkit to Enable Web Agents on Large Language Models.                                           | [Link](https://github.com/THUDM/OpenWebAgent/) |
+| Agno          | Build AI Agents with memory, knowledge, tools, and reasoning. Chat with them using a beautiful Agent UI.  | [Link](https://github.com/agno-agi/agno) |
+| Lagent        | A lightweight framework for building LLM-based agents.                                                   | [Link](https://github.com/InternLM/lagent) |
+| LazyLLM       | A Low-code Development Tool For Building Multi-agent LLMs Applications.                                  | [Link](https://github.com/LazyAGI/LazyLLM) |
+| Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
+| Swarms        | The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework.                               | [Link](https://github.com/kyegomez/swarms) |
+| AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
+| gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
+| ChatArena     | ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. | [Link](https://github.com/Farama-Foundation/chatarena) |
+| CrewAI        | Framework for orchestrating role-playing, autonomous AI agents.                                          | [Link](https://github.com/crewAIInc/crewAI) |
+| Swarm         | Educational framework exploring ergonomic, lightweight multi-agent orchestration.                        | [Link](https://github.com/openai/swarm) |
+| AgentStack    | The fastest way to build robust AI agents.                                                               | [Link](https://github.com/AgentOps-AI/AgentStack) |
+| LangGraph     | Build resilient language agents as graphs.                                                               | [Link](https://github.com/langchain-ai/langgraph) |
+| Archgw        | Intelligent gateway for Agents.                                                                          | [Link](https://github.com/katanemo/archgw) |
+| Flow          | A lightweight task engine for building AI agents.                                                        | [Link](https://github.com/lmnr-ai/flow) |
+| AgentOps      | Python SDK for AI agent monitoring.                                                                      | [Link](https://github.com/AgentOps-AI/agentops) |
+| Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
+| Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
+| Memary        | Open Source Memory Layer For Autonomous Agents.                                                          | [Link](https://github.com/kingjulio8238/Memary) |
+| Browser Use   | Make websites accessible for AI agents.                                                                 | [Link](https://github.com/browser-use/browser-use) |
+| Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
+| Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
+
+
 ## LLM Evaluation
+
+
 
 ## LLM Monitoring
 
