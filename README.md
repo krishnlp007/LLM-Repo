@@ -58,7 +58,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
 | LiteLLM      | Library to call 100+ LLM APIs in OpenAI format.                                                        | [Link](https://github.com/BerriAI/litellm) |
-| AI Gateway   | A Blazing Fast AI Gateway with integrated Guardrails.                                                  | [Link](https://github.com/Portkey-AI/gateway) |
+| AI Gateway   | A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.                                                 | [Link](https://github.com/Portkey-AI/gateway) |
 
 <p align = "center"> <b> Routers </b> </p>
 
