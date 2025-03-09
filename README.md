@@ -1,7 +1,7 @@
 # 👨🏻‍💻 LLM-Repo
 This repository contains a curated list of awesome 150+ libs category wise.
 
-<img src="my-image.jpg" alt="My Image" width="300"/>
+<img src="image_2025-03-09_181027647.png" alt="AI Buzz with Kalyan KS" width="300"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
