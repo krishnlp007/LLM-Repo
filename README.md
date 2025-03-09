@@ -16,11 +16,11 @@ This repository contains a curated list of awesome 150+ libs category wise.
 ## Quick links
 ||||
 |---|---|---|
-| [🚀LLM Training](#llm-training-and-fine-tuning) | [🧱LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
-| [LLM Inference](#llm-inference)| [LLM Serving](#llm-serving) | [LLM Data Extraction](#llm-data-extraction) |
-| [LLM Data Generation](#llm-data-generation) | [LLM Agents](#llm-agents)|[LLM Evaluation](#llm-evaluation) | 
-| [LLM Monitoring](#llm-monitoring) | [LLM Prompts](#llm-prompts) | [LLM Structured Outputs](#llm-structured-outputs) |
-| [LLM Safety and Security](#llm-safety-and-security) | [LLM Embedding Models](#llm-embedding-models) | [Others](#others) |
+| [🚀 LLM Training](#llm-training-and-fine-tuning) | [🧱 LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
+| [🟩 LLM Inference](#llm-inference)| [🚧 LLM Serving](#llm-serving) | [📤 LLM Data Extraction](#llm-data-extraction) |
+| [🌠 LLM Data Generation](#llm-data-generation) | [💎 LLM Agents](#llm-agents)|[⚖️ LLM Evaluation](#llm-evaluation) | 
+| [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
+| [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
 
 ## 🚀 LLM Training and Fine-Tuning
