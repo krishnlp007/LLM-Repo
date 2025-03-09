@@ -3,6 +3,8 @@ This repository contains a curated list of awesome 150+ libs.
 
 ---
 
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
     <img src="https://img.shields.io/badge/-Follow%20Kalyan_KS-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
