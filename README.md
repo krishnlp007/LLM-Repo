@@ -16,14 +16,14 @@ This repository contains a curated list of awesome 150+ libs category wise.
 ## Quick links
 ||||
 |---|---|---|
-| [LLM Training](#llm-training-and-fine-tuning) | [LLM Application Development](#llm-application-development) | [LLM RAG](#llm-rag) | 
+| [🚀LLM Training](#llm-training-and-fine-tuning) | [🧱LLM Application Development](#llm-application-development) | [🩸LLM RAG](#llm-rag) | 
 | [LLM Inference](#llm-inference)| [LLM Serving](#llm-serving) | [LLM Data Extraction](#llm-data-extraction) |
 | [LLM Data Generation](#llm-data-generation) | [LLM Agents](#llm-agents)|[LLM Evaluation](#llm-evaluation) | 
 | [LLM Monitoring](#llm-monitoring) | [LLM Prompts](#llm-prompts) | [LLM Structured Outputs](#llm-structured-outputs) |
 | [LLM Safety and Security](#llm-safety-and-security) | [LLM Embedding Models](#llm-embedding-models) | [Others](#others) |
 
 
-## LLM Training and Fine-Tuning
+## 🚀 LLM Training and Fine-Tuning
 | Library             | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
 | unsloth            | Fine-tune LLMs faster with less memory.                                                          | [Link](https://github.com/unslothai/unsloth) |
@@ -205,13 +205,11 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | Trulens | Evaluation and Tracking for LLM Experiments | [Link](https://github.com/truera/trulens) | 
 | PromptBench | A unified evaluation framework for large language models.                                                        | [Link](https://github.com/microsoft/promptbench) |
 | LangTest   | Deliver Safe & Effective Language Models. 60+ Test Types for Comparing LLM & NLP Models on Accuracy, Bias, Fairness, Robustness & More. | [Link](https://github.com/JohnSnowLabs/langtest) |
-
 | EvalPlus   | A rigorous evaluation framework for LLM4Code.                                                                    | [Link](https://github.com/evalplus/evalplus) |
 | FastChat   | An open platform for training, serving, and evaluating large language model-based chatbots.                      | [Link](https://github.com/lm-sys/FastChat) |
 | judges     | A small library of LLM judges.                                                                                   | [Link](https://github.com/quotient-ai/judges) |
 | Evals      | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.            | [Link](https://github.com/openai/evals) |
 | AgentEvals | Evaluators and utilities for evaluating the performance of your agents.                                         | [Link](https://github.com/langchain-ai/agentevals) |
-
 | LLMBox     | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
 | Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
 
