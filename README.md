@@ -1,5 +1,5 @@
 # LLM-Repo
-LLM Repo
+This repository contains a curated list of awesome 150+ libs.
 
 ### Quick links
 ||||
