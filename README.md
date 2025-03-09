@@ -1,8 +1,5 @@
 # 👨🏻‍💻 LLM-Repo
 This repository contains a curated list of awesome 150+ libs category wise.
-
-<img src="image_2025-03-09_181027647.png" alt="AI Buzz with Kalyan KS" width="300"/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
     <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
@@ -10,6 +7,10 @@ This repository contains a curated list of awesome 150+ libs category wise.
   <a href="https://x.com/kalyan_kpl">
     <img src="https://img.shields.io/badge/Kalyan%20KS-%23000000.svg?logo=X&logoColor=white" alt="Twitter">
   </a>
+   <a href="https://www.youtube.com/@kalyanksnlp">
+    <img src="https://img.shields.io/badge/Kalyan%20KS-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Twitter">
+  </a>
+	
 </p>
 
 ## Quick links
@@ -20,6 +21,14 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | [LLM Data Generation](#llm-data-generation) | [LLM Agents](#llm-agents)|[LLM Evaluation](#llm-evaluation) | 
 | [LLM Monitoring](#llm-monitoring) | [LLM Prompts](#llm-prompts) | [LLM Structured Outputs](#llm-structured-outputs) |
 | [LLM Safety and Security](#llm-safety-and-security) | [LLM Embedding Models](#llm-embedding-models) | [Others](#others) |
+
+<p align ="center">
+ 	<a href="https://www.linkedin.com/newsletters/ai-buzz-with-kalyan-ks-7014810110401150976/">
+		<img src="image_2025-03-09_181027647.png" alt="AI Buzz with Kalyan KS" width="1200"/>
+	</a>
+</p>
+
+
 
 ## LLM Training and Fine-Tuning
 | Library             | Description                                                                                     | Link |
