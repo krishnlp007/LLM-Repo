@@ -4,10 +4,10 @@ This repository contains a curated list of awesome 150+ libs.
 ---
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/shubhamsaboo/](https://www.linkedin.com/in/kalyanksnlp/)">
-    <img src="https://img.shields.io/badge/-Follow%20Kalyan%20KS-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kalyanksnlp/">
+    <img src="https://img.shields.io/badge/-Follow%20Kalyan_KS-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
-  <a href="[https://twitter.com/Saboo_Shubham_](https://x.com/kalyan_kpl)">
+  <a href="https://x.com/kalyan_kpl">
     <img src="https://img.shields.io/twitter/follow/Kalyan_KS" alt="Twitter">
   </a>
 </p>
