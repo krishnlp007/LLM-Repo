@@ -22,21 +22,15 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | [LLM Monitoring](#llm-monitoring) | [LLM Prompts](#llm-prompts) | [LLM Structured Outputs](#llm-structured-outputs) |
 | [LLM Safety and Security](#llm-safety-and-security) | [LLM Embedding Models](#llm-embedding-models) | [Others](#others) |
 
-<p align ="center">
- 	<a href="https://www.linkedin.com/newsletters/ai-buzz-with-kalyan-ks-7014810110401150976/">
-		<img src="image_2025-03-09_181027647.png" alt="AI Buzz with Kalyan KS" width="1200"/>
-	</a>
-</p>
-
-
 
 ## LLM Training and Fine-Tuning
 | Library             | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
+| unsloth            | Fine-tune LLMs faster with less memory.                                                          | [Link](https://github.com/unslothai/unsloth) |
 | PEFT                | State-of-the-art Parameter-Efficient Fine-Tuning library.                                       | [Link](https://github.com/huggingface/peft) |
 | TRL                 | Train transformer language models with reinforcement learning.                                  | [Link](https://github.com/huggingface/trl) |
-| unsloth            | Fine-tune LLMs faster with less memory.                                                          | [Link](https://github.com/unslothai/unsloth) |
 | Transformers       | Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio. | [Link](https://github.com/huggingface/transformers) |
+| Axolotl           | Tool designed to streamline post-training for various AI models.                                 | [Link](https://github.com/axolotl-ai-cloud/axolotl/) |
 | LLMBox             | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
 | LitGPT             | Train and fine-tune LLM lightning fast.                                                          | [Link](https://github.com/Lightning-AI/litgpt) |
 | Mergoo            | A library for easily merging multiple LLM experts, and efficiently train the merged LLM.         | [Link](https://github.com/Leeroo-AI/mergoo) |
@@ -49,7 +43,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | DeepSpeed         | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. | [Link](https://github.com/deepspeedai/DeepSpeed) |
 | torchtune         | A PyTorch-native library specifically designed for fine-tuning LLMs.                             | [Link](https://github.com/pytorch/torchtune) |
 | PyTorch Lightning | A library that offers a high-level interface for pretraining and fine-tuning LLMs.               | [Link](https://github.com/Lightning-AI/pytorch-lightning) |
-| Axolotl           | Tool designed to streamline post-training for various AI models.                                 | [Link](https://github.com/axolotl-ai-cloud/axolotl/) |
+
 
 ## LLM Application Development
 <p align = "center"> <b> Frameworks </b> </p>
@@ -89,12 +83,12 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| Simpleaichat | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. | [Link](https://github.com/minimaxir/simpleaichat) |
-| Chainlit     | Build production-ready Conversational AI applications in minutes.                                      | [Link](https://github.com/Chainlit/chainlit) |
 | Streamlit    | A faster way to build and share data apps.                                                             | [Link](https://github.com/streamlit/streamlit) |
 | Gradio       | Build and share delightful machine learning apps, all in Python.                                       | [Link](https://github.com/gradio-app/gradio) |
 | AI SDK UI    | Build chat and generative user interfaces.                                                             | [Link](https://sdk.vercel.ai/docs/introduction) |
 | AI-Gradio    | Create AI apps powered by various AI providers.                                                        | [Link](https://github.com/AK391/ai-gradio) |
+| Simpleaichat | Python package for easily interfacing with chat apps, with robust features and minimal code complexity. | [Link](https://github.com/minimaxir/simpleaichat) |
+| Chainlit     | Build production-ready Conversational AI applications in minutes.                                      | [Link](https://github.com/Chainlit/chainlit) |
 
 
 <p align = "center"> <b> Low Code </b> </p>
@@ -175,53 +169,129 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 | Library         | Description                                                                                                 | Link  |
 |----------------|---------------------------------------------------------------------------------------------------------|-------|
-| OpenWebAgent   | An Open Toolkit to Enable Web Agents on Large Language Models.                                           | [Link](https://github.com/THUDM/OpenWebAgent/) |
+| CrewAI        | Framework for orchestrating role-playing, autonomous AI agents.                                          | [Link](https://github.com/crewAIInc/crewAI) |
+| LangGraph     | Build resilient language agents as graphs.                                                               | [Link](https://github.com/langchain-ai/langgraph) |
 | Agno          | Build AI Agents with memory, knowledge, tools, and reasoning. Chat with them using a beautiful Agent UI.  | [Link](https://github.com/agno-agi/agno) |
+| AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
+| Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
+| Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
+| gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
+| Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
+| Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
+| Memary        | Open Source Memory Layer For Autonomous Agents.                                                          | [Link](https://github.com/kingjulio8238/Memary) |
+| Browser Use   | Make websites accessible for AI agents.                                                                 | [Link](https://github.com/browser-use/browser-use) |
+| OpenWebAgent   | An Open Toolkit to Enable Web Agents on Large Language Models.                                           | [Link](https://github.com/THUDM/OpenWebAgent/) |
 | Lagent        | A lightweight framework for building LLM-based agents.                                                   | [Link](https://github.com/InternLM/lagent) |
 | LazyLLM       | A Low-code Development Tool For Building Multi-agent LLMs Applications.                                  | [Link](https://github.com/LazyAGI/LazyLLM) |
-| Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
 | Swarms        | The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework.                               | [Link](https://github.com/kyegomez/swarms) |
-| AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
-| gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
 | ChatArena     | ChatArena is a library that provides multi-agent language game environments and facilitates research about autonomous LLM agents and their social interactions. | [Link](https://github.com/Farama-Foundation/chatarena) |
-| CrewAI        | Framework for orchestrating role-playing, autonomous AI agents.                                          | [Link](https://github.com/crewAIInc/crewAI) |
 | Swarm         | Educational framework exploring ergonomic, lightweight multi-agent orchestration.                        | [Link](https://github.com/openai/swarm) |
 | AgentStack    | The fastest way to build robust AI agents.                                                               | [Link](https://github.com/AgentOps-AI/AgentStack) |
-| LangGraph     | Build resilient language agents as graphs.                                                               | [Link](https://github.com/langchain-ai/langgraph) |
 | Archgw        | Intelligent gateway for Agents.                                                                          | [Link](https://github.com/katanemo/archgw) |
 | Flow          | A lightweight task engine for building AI agents.                                                        | [Link](https://github.com/lmnr-ai/flow) |
 | AgentOps      | Python SDK for AI agent monitoring.                                                                      | [Link](https://github.com/AgentOps-AI/agentops) |
 | Langroid      | Multi-Agent framework.                                                                                   | [Link](https://github.com/langroid/langroid) |
-| Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
-| Memary        | Open Source Memory Layer For Autonomous Agents.                                                          | [Link](https://github.com/kingjulio8238/Memary) |
-| Browser Use   | Make websites accessible for AI agents.                                                                 | [Link](https://github.com/browser-use/browser-use) |
 | Agentarium    | Framework for creating and managing simulations populated with AI-powered agents.                        | [Link](https://github.com/Thytu/Agentarium) |
-| Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
 
 
 ## LLM Evaluation
+
+| Library     | Description                                                                                                         | Link  |
+|------------|-----------------------------------------------------------------------------------------------------------------|-------|
+| Ragas      | Ragas is your ultimate toolkit for evaluating and optimizing Large Language Model (LLM) applications.            | [Link](https://github.com/explodinggradients/ragas) |
+| Giskard    | Open-Source Evaluation & Testing for ML & LLM systems.                                                           | [Link](https://github.com/Giskard-AI/giskard) |
+| DeepEval | LLM Evaluation Framework | [Link](https://github.com/confident-ai/deepeval) |
+| Lighteval  | All-in-one toolkit for evaluating LLMs.                                                                         | [Link](https://github.com/huggingface/lighteval) |
+| Trulens | Evaluation and Tracking for LLM Experiments | [Link](https://github.com/truera/trulens) | 
+| PromptBench | A unified evaluation framework for large language models.                                                        | [Link](https://github.com/microsoft/promptbench) |
+| LangTest   | Deliver Safe & Effective Language Models. 60+ Test Types for Comparing LLM & NLP Models on Accuracy, Bias, Fairness, Robustness & More. | [Link](https://github.com/JohnSnowLabs/langtest) |
+
+| EvalPlus   | A rigorous evaluation framework for LLM4Code.                                                                    | [Link](https://github.com/evalplus/evalplus) |
+| FastChat   | An open platform for training, serving, and evaluating large language model-based chatbots.                      | [Link](https://github.com/lm-sys/FastChat) |
+| judges     | A small library of LLM judges.                                                                                   | [Link](https://github.com/quotient-ai/judges) |
+| Evals      | Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.            | [Link](https://github.com/openai/evals) |
+| AgentEvals | Evaluators and utilities for evaluating the performance of your agents.                                         | [Link](https://github.com/langchain-ai/agentevals) |
+
+| LLMBox     | A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation. | [Link](https://github.com/RUCAIBox/LLMBox) |
+| Opik       | An open-source end-to-end LLM Development Platform which also includes LLM evaluation.                           | [Link](https://github.com/comet-ml/opik) |
 
 
 
 ## LLM Monitoring
 
+| Library              | Description                                                                                       | Link  |
+|----------------------|-------------------------------------------------------------------------------------------------|-------|
+| Opik                | An open-source end-to-end LLM Development Platform which also includes LLM monitoring.          | [Link](https://github.com/comet-ml/opik) |
+| LangSmith           | Provides tools for logging, monitoring, and improving your LLM applications.                     | [Link](https://github.com/langchain-ai/langsmith-sdk) |
+| Weights & Biases (W&B) | W&B provides features for tracking LLM performance.                                          | [Link](https://github.com/wandb) |
+| Helicone            | Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. | [Link](https://github.com/Helicone/helicone) |
+| Evidently          | An open-source ML and LLM observability framework.                                                | [Link](https://github.com/evidentlyai/evidently) |
+| Phoenix            | An open-source AI observability platform designed for experimentation, evaluation, and troubleshooting. | [Link](https://github.com/Arize-ai/phoenix) |
+| Observers          | A Lightweight Library for AI Observability.                                                       | [Link](https://github.com/cfahlgren1/observers) |
+
+
 ## LLM Prompts
 
+| Library             | Description                                                                                                      | Link  |
+|---------------------|----------------------------------------------------------------------------------------------------------------|-------|
+| PCToolkit          | A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models.                                   | [Link](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) |
+| Selective Context  | Selective Context compresses your prompt and context to allow LLMs (such as ChatGPT) to process 2x more content. | [Link](https://pypi.org/project/selective-context/) |
+| LLMLingua          | Library for compressing prompts to accelerate LLM inference.                                                  | [Link](https://github.com/microsoft/LLMLingua) |
+| betterprompt       | Test suite for LLM prompts before pushing them to production.                                                 | [Link](https://github.com/stjordanis/betterprompt) |
+| Promptify         | Solve NLP Problems with LLMs & easily generate different NLP Task prompts for popular generative models like GPT, PaLM, and more with Promptify. | [Link](https://github.com/promptslab/Promptify) |
+| PromptSource      | PromptSource is a toolkit for creating, sharing, and using natural language prompts.                          | [Link](https://pypi.org/project/promptsource/) |
+| DSPy              | DSPy is the open-source framework for programming—rather than prompting—language models.                      | [Link](https://github.com/stanfordnlp/dspy) |
+| Py-priompt        | Prompt design library.                                                                                        | [Link](https://github.com/zenbase-ai/py-priompt) |
+| Promptimizer      | Prompt optimization library.                                                                                  | [Link](https://github.com/hinthornw/promptimizer) |
+
+
 ## LLM Structured Outputs
+| Library |	Description |	Link |
+|------------|--------------------------------------------------------|------|
+|Instructor |	The Most Popular Library for Simple Structured Outputs | [Link](https://github.com/instructor-ai/instructor) |
+| XGrammar   | An open-source library for efficient, flexible, and portable structured generation. | [Link](https://github.com/mlc-ai/xgrammar) |
+| Outlines   | Robust (structured) text generation | [Link](https://github.com/dottxt-ai/outlines) |
+| Guidance   | Guidance is an efficient programming paradigm for steering language models. | [Link](https://github.com/guidance-ai/guidance) |
+| LMQL      | A language for constraint-guided and efficient LLM programming. | [Link](https://github.com/eth-sri/lmql) |
+| Jsonformer | A Bulletproof Way to Generate Structured JSON from Language Models. | [Link](https://github.com/1rgs/jsonformer) |
+
 
 ## LLM Safety and Security
+| Library         | Description  | Link |
+|---------------|-----------------------------------------------------------|------|
+| JailbreakEval | A collection of automated evaluators for assessing jailbreak attempts. | [Link](https://github.com/ThuCCSLab/JailbreakEval) |
+| EasyJailbreak | An easy-to-use Python framework to generate adversarial jailbreak prompts. | [Link](https://github.com/EasyJailbreak/EasyJailbreak) |
+| Guardrails    | Adding guardrails to large language models. | [Link](https://github.com/guardrails-ai/guardrails) |
+| LLM Guard     | The Security Toolkit for LLM Interactions. | [Link](https://github.com/protectai/llm-guard) |
+| AuditNLG      | AuditNLG is an open-source library that can help reduce the risks associated with using generative AI systems for language. | [Link](https://github.com/salesforce/AuditNLG) |
+| NeMo Guardrails | NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
+| Garak        | LLM vulnerability scanner | [Link](https://github.com/NVIDIA/garak) |
+
 
 ## LLM Embedding Models
+| Library                   | Description                                         | Link |
+|---------------------------|-----------------------------------------------------|------|
+| Sentence-Transformers     | State-of-the-Art Text Embeddings                   | [Link](https://github.com/UKPLab/sentence-transformers) |
+| Model2Vec                | Fast State-of-the-Art Static Embeddings             | [Link](https://github.com/MinishLab/model2vec) |
+| Text Embedding Inference | A blazing fast inference solution for text embeddings models | [Link](https://github.com/huggingface/text-embeddings-inference) |
+
 
 ## Others
-
-
-
-
-
-
-		
-
+| Library                 | Description  | Link |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------|------|
+| Text Machina           | A modular and extensible Python framework, designed to aid in the creation of high-quality, unbiased datasets to build robust models for MGT-related tasks such as detection, attribution, and boundary detection. | [Link](https://github.com/Genaios/TextMachina) |
+| LLM Reasoners          | A library for advanced large language model reasoning. | [Link](https://github.com/maitrix-org/llm-reasoners) |
+| EasyEdit               | An Easy-to-use Knowledge Editing Framework for Large Language Models. | [Link](https://github.com/zjunlp/EasyEdit) |
+| CodeTF                 | CodeTF: One-stop Transformer Library for State-of-the-art Code LLM. | [Link](https://github.com/salesforce/CodeTF) |
+| spacy-llm              | This package integrates Large Language Models (LLMs) into spaCy, featuring a modular system for fast prototyping and prompting, and turning unstructured responses into robust outputs for various NLP tasks. | [Link](https://github.com/explosion/spacy-llm) |
+| pandas-ai              | Chat with your database (SQL, CSV, pandas, polars, MongoDB, NoSQL, etc.). | [Link](https://github.com/Sinaptik-AI/pandas-ai) |
+| LLM Transparency Tool  | An open-source interactive toolkit for analyzing internal workings of Transformer-based language models. | [Link](https://github.com/facebookresearch/llm-transparency-tool) |
+| Vanna                  | Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using RAG. | [Link](https://github.com/vanna-ai/vanna) |
+| mergekit               | Tools for merging pretrained large language models. | [Link](https://github.com/arcee-ai/MergeKit) |
+| MarkLLM                | An Open-Source Toolkit for LLM Watermarking. | [Link](https://github.com/THU-BPM/MarkLLM) |
+| LLMSanitize            | An open-source library for contamination detection in NLP datasets and Large Language Models (LLMs). | [Link](https://github.com/ntunlp/LLMSanitize) |
+| Annotateai             | Automatically annotate papers using LLMs. | [Link](https://github.com/neuml/annotateai) |
+| LLM Reasoner          | Make any LLM think like OpenAI o1 and DeepSeek R1. | [Link](https://github.com/harishsg993010/LLM-Reasoner) |
 
 
 ## ⭐️ Star History
