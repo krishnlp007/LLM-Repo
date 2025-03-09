@@ -1,6 +1,8 @@
 # 👨🏻‍💻 LLM-Repo
 This repository contains a curated list of awesome 150+ libs category wise.
 
+<img src="my-image.jpg" alt="My Image" width="300"/>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
     <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
