@@ -5,7 +5,7 @@ This repository contains a curated list of awesome 150+ libs.
 ## Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kalyanksnlp/)
 
-[![Kalyan KS on X](https://img.shields.io/badge/Kalyan%20KS%20on%20X-%23000000.svg?logo=X&logoColor=white)](#)
+[![Kalyan KS](https://img.shields.io/badge/Kalyan%20KS%20on%20X-%23000000.svg?logo=X&logoColor=white)](#)
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/kalyan_kpl)
 
