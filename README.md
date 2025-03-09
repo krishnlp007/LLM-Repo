@@ -1,24 +1,14 @@
 # LLM-Repo
 This repository contains a curated list of awesome 150+ libs.
 
----
-## Connect with Me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kalyanksnlp/)
-
-[![Kalyan KS](https://img.shields.io/badge/Kalyan%20KS%20on%20X-%23000000.svg?logo=X&logoColor=white)](#)
-
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/kalyan_kpl)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
-    <img src="https://img.shields.io/badge/-Follow%20Kalyan_KS-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/Kalyan%20KS-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
   <a href="https://x.com/kalyan_kpl">
-    <img src="https://img.shields.io/twitter/follow/Kalyan_KS" alt="Twitter">
+    <img src="https://img.shields.io/badge/Kalyan%20KS-%23000000.svg?logo=X&logoColor=white" alt="Twitter">
   </a>
 </p>
-
-<hr/>
 
 ### Quick links
 ||||
@@ -29,36 +19,8 @@ This repository contains a curated list of awesome 150+ libs.
 | [🎓LLM Courses / Education](#llm-courses--education) | [🤖LLM Agent Benchmarks](#llm-agent-benchmarks) |
 
 
-## Star History
+## ⭐️ Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=krishnlp007/LLM-Repo&type=Date)](https://star-history.com/#)
 
----
-
-## :black_nib: Contributing
-
-If you want to add to the repository or find any issues, please feel free to raise a PR and ensure correct placement within the relevant section or category.
-
----
-
-## :pushpin: Cite Us
-
-To cite this guide, use the below format:
-
-```
-@article{llm repo,
-author = {Krish,nlp},
-journal = {https://github.com/krishnlp007/LLM-Repo},
-month = {03},
-title = {{LLM Repo}},
-year = {2025}
-}
-```
-
-## License
-
-[MIT License]
-
-
-
-<sup>**</sup> This section is sponsored. We do not endorse or guarantee the product/service and are not responsible for any issues arising from its use. Please evaluate and use at your discretion.
-
+Please consider giving a star, if you find this repository useful. 
