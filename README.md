@@ -23,7 +23,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
 
-## 🚀 LLM Training and Fine-Tuning
+## LLM Training and Fine-Tuning
 | Library             | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
 | unsloth            | Fine-tune LLMs faster with less memory.                                                          | [Link](https://github.com/unslothai/unsloth) |
@@ -69,7 +69,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| RouteLLM     | Framework for serving and evaluating LLM routers.                                                      | [Link](https://github.com/lm-sys/RouteLLM) |
+| RouteLLM     | Framework for serving and evaluating LLM routers - save LLM costs without compromising quality. Drop-in replacement for OpenAI's client to route simpler queries to cheaper models.                                                      | [Link](https://github.com/lm-sys/RouteLLM) |
 
 
 <p align = "center"> <b> Memory </b> </p>
@@ -83,7 +83,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| Streamlit    | A faster way to build and share data apps.                                                             | [Link](https://github.com/streamlit/streamlit) |
+| Streamlit    | A faster way to build and share data apps. Streamlit lets you transform Python scripts into interactive web apps in minutes                                                             | [Link](https://github.com/streamlit/streamlit) |
 | Gradio       | Build and share delightful machine learning apps, all in Python.                                       | [Link](https://github.com/gradio-app/gradio) |
 | AI SDK UI    | Build chat and generative user interfaces.                                                             | [Link](https://sdk.vercel.ai/docs/introduction) |
 | AI-Gradio    | Create AI apps powered by various AI providers.                                                        | [Link](https://github.com/AK391/ai-gradio) |
@@ -95,13 +95,13 @@ This repository contains a curated list of awesome 150+ libs category wise.
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| LangFlow     | LangFlow is a low-code app builder for RAG and multi-agent AI applications.                            | [Link](https://github.com/langflow-ai/langflow) |
+| LangFlow     | LangFlow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.                           | [Link](https://github.com/langflow-ai/langflow) |
 
 <p align = "center"> <b> Cache </b> </p>
 
 | Library        | Description                                                                                               | Link  |
 |--------------|------------------------------------------------------------------------------------------------------|-------|
-| GPTCache     | Semantic cache for LLMs. Fully integrated with LangChain and LlamaIndex.                               | [Link](https://github.com/zilliztech/gptcache) |
+| GPTCache     | A Library for Creating Semantic Cache for LLM Queries. Slash Your LLM API Costs by 10x 💰, Boost Speed by 100x. Fully integrated with LangChain and LlamaIndex.                               | [Link](https://github.com/zilliztech/gptcache) |
 
 
 ## LLM RAG
@@ -138,7 +138,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 | Library   | Description                                                              | Link  |
 |-----------|--------------------------------------------------------------------------|-------|
 | Langcorn  | Serving LangChain LLM apps and agents automagically with FastAPI.       | [Link](https://github.com/msoedov/langcorn) |
-| LitServe  | Lightning-fast serving engine for any AI model of any size.             | [Link](https://github.com/Lightning-AI/LitServe) |
+| LitServe  | Lightning-fast serving engine for any AI model of any size. It augments FastAPI with features like batching, streaming, and GPU autoscaling.           | [Link](https://github.com/Lightning-AI/LitServe) |
 
 
 ## LLM Data Extraction
@@ -246,7 +246,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 ## LLM Structured Outputs
 | Library |	Description |	Link |
 |------------|--------------------------------------------------------|------|
-|Instructor |	The Most Popular Library for Simple Structured Outputs | [Link](https://github.com/instructor-ai/instructor) |
+|Instructor |	Python library for working with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API. | [Link](https://github.com/instructor-ai/instructor) |
 | XGrammar   | An open-source library for efficient, flexible, and portable structured generation. | [Link](https://github.com/mlc-ai/xgrammar) |
 | Outlines   | Robust (structured) text generation | [Link](https://github.com/dottxt-ai/outlines) |
 | Guidance   | Guidance is an efficient programming paradigm for steering language models. | [Link](https://github.com/guidance-ai/guidance) |
@@ -271,7 +271,7 @@ This repository contains a curated list of awesome 150+ libs category wise.
 |---------------------------|-----------------------------------------------------|------|
 | Sentence-Transformers     | State-of-the-Art Text Embeddings                   | [Link](https://github.com/UKPLab/sentence-transformers) |
 | Model2Vec                | Fast State-of-the-Art Static Embeddings             | [Link](https://github.com/MinishLab/model2vec) |
-| Text Embedding Inference | A blazing fast inference solution for text embeddings models | [Link](https://github.com/huggingface/text-embeddings-inference) |
+| Text Embedding Inference | A blazing fast inference solution for text embeddings models. TEI enables high-performance extraction for the most popular models, including FlagEmbedding, Ember, GTE and E5. | [Link](https://github.com/huggingface/text-embeddings-inference) |
 
 
 ## Others
