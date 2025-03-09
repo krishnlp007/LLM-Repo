@@ -1,5 +1,5 @@
-# LLM-Repo
-This repository contains a curated list of awesome 150+ libs.
+# 👨🏻‍💻 LLM-Repo
+This repository contains a curated list of awesome 150+ libs category wise.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kalyanksnlp/">
